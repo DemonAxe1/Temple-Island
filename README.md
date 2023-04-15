@@ -36,7 +36,7 @@ These are done by simple nested if statments: <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/5%20Python%204.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Prompt to continue or end the program reapears, y to go again, anything else to exit:  <br/>
+<br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/5%20Python%205.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
