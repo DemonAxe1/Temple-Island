@@ -1,9 +1,9 @@
 # Temple-Island
 
-<h1>Python Rock Paper and Scissors game!</h1>
+<h1>Temple Island Game!</h1>
 
 <h2>Description</h2>
-This is a short mini-game that is a crossroad system. The player is stuck at a crossroads and can only go left or right. The goal
+This is a short mini-game that uses a crossroad system. The player is stuck at a crossroads and can only go left or right. The goal
 is to get through the game without dying and recovering the treasure.
 <br />
 
