@@ -40,7 +40,7 @@ These are done by simple nested if statments: <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/5%20Python%205.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Alternet ending and death screens:  <br/>
+Alternate ending and death screens:  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/5%20Python%206%20dead.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -51,7 +51,7 @@ Not all alternat ending are deaths:  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/5%20Python%209%20never%20find.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Bounus ending:  <br/>
+Bonus ending:  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/5%20Python%208%20dead.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
