@@ -1,0 +1,15 @@
+Temple Island
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Main idea:
+----------
+This is a short mini-game that is a crossroad system. The player is stuck at a crossroads and can only go left or right. The goal
+is to get through the game without dying and recovering the treasure.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+User input:
+---------------
+The user is prompted with 2 options for every if statement that they have to pick from. Depending on the choice they either move forward or die.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
