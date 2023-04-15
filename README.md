@@ -19,7 +19,7 @@ is to get through the game without dying and recovering the treasure.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the program, Display a tresure and explain what the players mission is: <br/>
+Launch the program, Display a tresure and explain what the Player's mission is: <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/5%20Python%201.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -31,7 +31,8 @@ These are done by simple nested if statments: <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/5%20Python%203.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Prompt to continue or end the program reapears, y to go again, anything else to exit:  <br/>
+
+<br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/5%20Python%204.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
